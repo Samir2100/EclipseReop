@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Linda
+ *
+ */
+module GitEclipse {
+}
